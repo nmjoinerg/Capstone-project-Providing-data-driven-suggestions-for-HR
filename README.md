@@ -1,4 +1,4 @@
-# testrepo
+# Capstone project
 
 ## Editing a file
 
